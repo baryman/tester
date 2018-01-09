@@ -4,4 +4,5 @@
     echo ($a+$b);
 
     echo 'LOHHH';
+    echo 'LOHHH';
 ?>    
